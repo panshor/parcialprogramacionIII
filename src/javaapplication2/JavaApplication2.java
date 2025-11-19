@@ -1,10 +1,7 @@
 
 package javaapplication2;
 
-/**
- *
- * @author juan
- */
+
 public class JavaApplication2 {
 
     /**
